@@ -4,7 +4,7 @@ I am a software developer with profound experience in Full Stack Web Development
 - 🌱 I’m currently learning machine learning and artifical intelligence
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me [linkin@martinW](https://www.linkedin.com/in/martin-muruthi-0b7945234/)  and [website](https://leonteqsecurity.com/)
-- :joy:Fun fact I love learning new hacking technical concepts and usually spend my leisure time by doing so.
+- :joy: Fun fact I love learning new hacking technics concepts and usually spend my leisure time by doing so.
 <!--
 ![leonTech254's github stats](https://github-readme-stats.vercel.app/api?username=leonTech254)
 leonTech254/leonTech254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
