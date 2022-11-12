@@ -5,7 +5,7 @@ I am a software developer with profound experience in Full Stack Web Development
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me [linkin@martinW](https://www.linkedin.com/in/martin-muruthi-0b7945234/)  and [website](https://leonteqsecurity.com/)
 - 
-[![leonTech254](https://github-readme-stats.vercel.app/api?username=leonTech254)
+[leonTech254](https://github-readme-stats.vercel.app/api?username=leonTech254)
 
 <!---
 leonTech254/leonTech254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
