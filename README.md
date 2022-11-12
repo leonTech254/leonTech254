@@ -7,6 +7,8 @@ I am a software developer with profound experience in Full Stack Web Development
 - :joy: Fun fact I love learning new hacking technics concepts and usually spend my leisure time by doing so.
 
 ![leonTech254's github stats](https://github-readme-stats.vercel.app/api?username=leonTech254)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonTech254)](https://github.com/leonTech254/github-readme-stats)
 <!--
 leonTech254/leonTech254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
