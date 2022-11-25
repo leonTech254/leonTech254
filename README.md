@@ -9,7 +9,7 @@ I am a software developer with profound experience in Full Stack Web Development
 ![leonTech254's github stats](https://github-readme-stats.vercel.app/api?username=leonTech254&theme=dark&show_icons=true)
 <!-- ![leonTech254's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonTech254&theme=dark&show_icons=true)](https://github.com/leonTech254/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonTech254&theme=midnight-purple&show_icons=true)](https://github.com/leonTech254/github-readme-stats)
 <!--
 leonTech254/leonTech254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
