@@ -6,7 +6,8 @@ I am a software developer with profound experience in Full Stack Web Development
 - 📫 How to reach me [linkin@martinW](https://www.linkedin.com/in/martin-muruthi-0b7945234/)  and [website](https://leonteqsecurity.com/)
 - :joy: Fun fact I love learning new hacking technics concepts and usually spend my leisure time by doing so.
 
-![leonTech254's github stats](https://github-readme-stats.vercel.app/api?username=leonTech254)
+![leonTech254's github stats](https://github-readme-stats.vercel.app/api?username=leonTech254&theme=dark&show_icons=true)
+<!-- ![leonTech254's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonTech254)](https://github.com/leonTech254/github-readme-stats)
 <!--
