@@ -40,7 +40,20 @@ You can click the Preview link to take a look at your changes.
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/737203033bd9e4a9826ae625fa970fd56277e55f2bd539d232ed3253e05d74e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d3030303030303f7374796c653d666c6174266c6f676f3d77696e646f7773266c6f676f436f6c6f723d666666666666266c6162656c436f6c6f723d303037384436"><img src="https://camo.githubusercontent.com/737203033bd9e4a9826ae625fa970fd56277e55f2bd539d232ed3253e05d74e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d3030303030303f7374796c653d666c6174266c6f676f3d77696e646f7773266c6f676f436f6c6f723d666666666666266c6162656c436f6c6f723d303037384436" alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-000000?style=flat&amp;logo=windows&amp;logoColor=ffffff&amp;labelColor=0078D6" style="max-width: 100%;"></a></p>
 <!--   me   -->
 
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="GO" alt="GO" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" title="kafka" alt="kafka" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" title="redis" alt="redis" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="Html" alt="Html" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" title="vuejs" alt="vuejs" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  title="git" alt="git" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  title="github" alt="github" width="40" height="40"/>
+ 
   
   
   
