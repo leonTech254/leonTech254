@@ -20,7 +20,12 @@ You can click the Preview link to take a look at your changes.
   <hr>
 
 <!--   me   -->
-<div class='skills'>
+<div class='skills' style='width:90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;;
+    gap:.5rem;
+    padding:10px;'>
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40" />
@@ -38,18 +43,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  title="github" alt="github" width="40" height="40"/>
 
 </div>
-<style>
-.skills
-{
-    width:90%;
-    display: flex;
-    justify-content: center;
-    align-items: center;;
-    gap:.5rem;
-    padding:10px;
-}
 
-</style>
 
   
   
