@@ -45,8 +45,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="martin-muruthi-0b7945234" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/martin-muruthi-0b7945234?trk=profile-badge">Martin Muruthi</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="martin-muruthi-0b7945234" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/martin-muruthi-0b7945234?trk=profile-badge">Martin Muruthi</a></div>
               
   
   
