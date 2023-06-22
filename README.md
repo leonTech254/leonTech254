@@ -7,7 +7,7 @@ I am a software developer with profound experience in Full Stack Web Development
 - 😄 Fun fact: I love learning new hacking techniques and concepts, and I usually spend my leisure time doing so.
 
  ![leonTech254's github stats](https://github-readme-stats.vercel.app/api?username=leonTech254&theme=midnight-purple&show_icons=true)
-![leonTech254's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) 
+<!--![leonTech254's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonTech254&theme=midnight-purple&show_icons=true)](https://github.com/leonTech254/github-readme-stats)
 <!--
