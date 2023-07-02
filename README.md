@@ -9,9 +9,9 @@ I am a software developer with profound experience in Full Stack Web Development
  ![leonTech254's github stats](https://github-readme-stats.vercel.app/api?username=leonTech254&theme=midnight-purple&show_icons=true)
 <!--![leonTech254's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) -->
 
- <!--<img src="https://github-readme-stats.vercel.app/api?username=leonTech254&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" /> -->
+ <<img src="https://github-readme-stats.vercel.app/api?username=leonTech254&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonTech254&theme=midnight-purple&show_icons=true)](https://github.com/leonTech254/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonTech254&theme=midnight-purple&show_icons=true)](https://github.com/leonTech254/github-readme-stats) 
 <!--
 leonTech254/leonTech254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
