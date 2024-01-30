@@ -36,7 +36,7 @@ The dynamic nature of cybersecurity fuels my passion for coding and problem-solv
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 👀 I’m currently working on full stack web development using HTML5, JS, Vue, Python, and Flask, Android application development using the Kivy framework, Python, and Java, and Desktop Application development using Python.
+- 👀 I’m currently working on full stack web development using HTML5, React, Vue, Python, and Flask and Spring boot, Android application development using the Kivy framework, Python, and Java, and Desktop Application development using Python,Javafx.
 - 🌱 I’m currently learning machine learning and artificial intelligence.
 - 💞️ I’m looking to collaborate on GitHub.
 <!-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/martin-muruthi-0b7945234/) and [website](https://leonteqsecurity.com/) -->
