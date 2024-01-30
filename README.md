@@ -2,7 +2,9 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm leon Martin</h1>
-<h3 align="center">Hello, I'm Leon, a dedicated programmer in the world of cybersecurity.</h3>
+<p align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Graduate;Full+Stack+Software+Developer;Machine+Learning+Engineer;Encryptions%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+</p>
 <p align="center">
 I am captivated by the ever-evolving landscape of cybersecurity 🔒, where the constant battle between digital threats and protective measures shapes the digital realm. My intrigue in cybersecurity began as I marveled at the complex dance between hackers and defenders, prompting me to delve into the world of coding and security protocols.
 
