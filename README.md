@@ -113,6 +113,8 @@ The dynamic nature of cybersecurity fuels my passion for coding and problem-solv
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+![Leon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leontech254&theme=github-compact)
+
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
